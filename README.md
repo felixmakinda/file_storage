@@ -32,7 +32,7 @@ A modern, fast, and secure file storage web application built with **Next.js** a
 
 ```bash
 git clone https://github.com/felixmakinda/file_storage.git
-cd file-storage
+cd file_storage
 ```
 
 ### Install Dependencies
